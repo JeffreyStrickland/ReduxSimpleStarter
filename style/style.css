@@ -24,3 +24,7 @@
 .list-group-item:hover {
     background-color: #eee;
 }
+
+.media-heading{
+    font-size: 12px;
+}
